@@ -29,3 +29,5 @@ The device has the 220Vac/3.3Vdc transformer already on board, just connect it t
 Enjoy your board.
 
 More example coming soon.
+
+(This page is work in progress!)
