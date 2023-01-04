@@ -30,7 +30,7 @@ PINOUT
 
 COME FUNZIONA
 
-Al momento dell accenzione se non è stato gia configurato il dispositivo metterà a disposizione un access point (SSID: WiFi Thermometer, Password:12345678)
+Al momento dell accensione se non è stato gia configurato il dispositivo metterà a disposizione un access point (SSID: WiFi Thermometer, Password:12345678)
 tramite il quale sara possibile inserire SSID e Password della propria rete lan.
 
 
